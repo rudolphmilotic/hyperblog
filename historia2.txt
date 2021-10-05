@@ -1,1 +1,3 @@
 Este es un archivo de ejemplo.
+
+La siguiente es una línea nueva que después habremos de borrar cuando volvamos a una versión anterior.
